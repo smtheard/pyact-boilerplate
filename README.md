@@ -15,7 +15,7 @@ sudo pip install bottle
 ```sh
 python server.py
 ```
-That's it.
+That's it. You can visit localhost:8080 to see the react being rendered.
 
 
 There are a ton of improvements that could be made to this but I want to keep it really light weight as well. 
