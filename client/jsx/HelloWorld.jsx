@@ -1,7 +1,7 @@
 var HelloWorld = React.createClass({
   render: function() {
     return (
-      <div id="hello_world">
+      <div>
         Hello World
       </div>
     );
