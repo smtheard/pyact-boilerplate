@@ -20,6 +20,7 @@ That's it. You can visit localhost:8080 to see the react being rendered.
 
 There are a ton of improvements that could be made to this but I want to keep it really light weight as well. 
 
-A few things that can be improved for sure: 
-- static file serving should just be at /static and then something should compile the jsx to js, the js should be served from there
+Future Improvements:
+- static file serving should just be at /static/app.js and then something should compile the jsx to js, the js should be served from there
+
 The problem with this is I want to do it without having an external node.js microservice dependency. I will need to spend more time to get this to work.
