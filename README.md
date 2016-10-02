@@ -9,6 +9,10 @@ Deps:
 ```sh
 sudo apt-get install python-pip
 sudo pip install bottle
+npm install
+# On some linux distro you may need this command:
+sudo ln -s /usr/bin/nodejs /usr/bin/node
+# in order to get the node command to work in terminal
 ```
 
 ### Start Server
