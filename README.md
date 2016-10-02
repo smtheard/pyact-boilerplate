@@ -10,7 +10,7 @@ Deps:
 sudo apt-get install python-pip
 sudo pip install bottle
 npm install
-# On some linux distro you may need this command:
+# On some linux distros you may need this command:
 sudo ln -s /usr/bin/nodejs /usr/bin/node
 # if you get the error: /usr/bin/env: ‘node’: No such file or directory
 ```
