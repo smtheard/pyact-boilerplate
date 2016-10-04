@@ -7,12 +7,11 @@ I decided I wanted to build a game in python/react (https://github.com/smtheard/
 
 ### Dependencies:
 ```sh
-sudo apt-get install python-pip
 sudo pip install bottle
 npm install
-# On some linux distros you may need this command:
-sudo ln -s /usr/bin/nodejs /usr/bin/node
 # if you get the error: /usr/bin/env: ‘node’: No such file or directory
+# you may need this command to symlink nodejs -> node (happens on some linux distros)
+sudo ln -s /usr/bin/nodejs /usr/bin/node
 ```
 
 ### Start Server
