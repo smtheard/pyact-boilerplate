@@ -2,4 +2,4 @@ import bottle
 
 @bottle.route('/')
 def hello():
-  return bottle.template('client/index.tpl')
+  return bottle.template('index.tpl')

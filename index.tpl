@@ -10,6 +10,6 @@
 
   <body>
     <div id="hello_world"></div>
-    <script type="text/babel" src="HelloWorld.jsx"></script>
+    <script type="text/babel" src="HelloWorld.js"></script>
   </body>
 </html>
