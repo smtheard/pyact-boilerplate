@@ -9,6 +9,6 @@
 
   <body>
     <div id="hello_world"></div>
-    <script type="text/javascript" src="HelloWorld.js"></script>
+    <script type="text/javascript" src="static/js/HelloWorld.js"></script>
   </body>
 </html>
